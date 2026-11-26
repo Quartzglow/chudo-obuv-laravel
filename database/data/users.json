@@ -1,0 +1,142 @@
+[
+  {
+    "surname": "Иванов",
+    "name": "Иван",
+    "patronymic": "Сергеевич",
+    "login": "isivanov",
+    "role": "admin"
+  },
+  {
+    "surname": "Петров",
+    "name": "Пётр",
+    "patronymic": "Алексеевич",
+    "login": "papetrov",
+    "role": "manager"
+  },
+  {
+    "surname": "Сидорова",
+    "name": "Анна",
+    "patronymic": "Дмитриевна",
+    "login": "asidorova",
+    "role": "user"
+  },
+  {
+    "surname": "Кузнецова",
+    "name": "Екатерина",
+    "patronymic": "Андреевна",
+    "login": "ekuznetsova",
+    "role": "manager"
+  },
+  {
+    "surname": "Смирнов",
+    "name": "Дмитрий",
+    "patronymic": "Владимирович",
+    "login": "dsmirnov",
+    "role": "user"
+  },
+  {
+    "surname": "Попов",
+    "name": "Алексей",
+    "patronymic": "Николаевич",
+    "login": "apopov",
+    "role": "admin"
+  },
+  {
+    "surname": "Васильева",
+    "name": "Ольга",
+    "patronymic": "Игоревна",
+    "login": "ovasileva",
+    "role": "user"
+  },
+  {
+    "surname": "Соколов",
+    "name": "Павел",
+    "patronymic": "Викторович",
+    "login": "psokolov",
+    "role": "manager"
+  },
+  {
+    "surname": "Михайлова",
+    "name": "Татьяна",
+    "patronymic": "Юрьевна",
+    "login": "tmikhailova",
+    "role": "user"
+  },
+  {
+    "surname": "Новикова",
+    "name": "Наталья",
+    "patronymic": "Сергеевна",
+    "login": "nnovikova",
+    "role": "manager"
+  },
+  {
+    "surname": "Фёдоров",
+    "name": "Андрей",
+    "patronymic": "Максимович",
+    "login": "afedorov",
+    "role": "admin"
+  },
+  {
+    "surname": "Морозов",
+    "name": "Сергей",
+    "patronymic": "Павлович",
+    "login": "smorozov",
+    "role": "user"
+  },
+  {
+    "surname": "Волкова",
+    "name": "Юлия",
+    "patronymic": "Александровна",
+    "login": "jvolkova",
+    "role": "manager"
+  },
+  {
+    "surname": "Алексеев",
+    "name": "Артём",
+    "patronymic": "Евгеньевич",
+    "login": "aalekseev",
+    "role": "user"
+  },
+  {
+    "surname": "Лебедева",
+    "name": "Ирина",
+    "patronymic": "Владимировна",
+    "login": "ilebedeva",
+    "role": "user"
+  },
+  {
+    "surname": "Егоров",
+    "name": "Никита",
+    "patronymic": "Денисович",
+    "login": "negorov",
+    "role": "manager"
+  },
+  {
+    "surname": "Павлова",
+    "name": "Елена",
+    "patronymic": "Петровна",
+    "login": "epavlova",
+    "role": "user"
+  },
+  {
+    "surname": "Козлов",
+    "name": "Роман",
+    "patronymic": "Олегович",
+    "login": "rkozlov",
+    "role": "admin"
+  },
+  {
+    "surname": "Степанова",
+    "name": "Виктория",
+    "patronymic": "Романовна",
+    "login": "vstepanova",
+    "role": "manager"
+  },
+  {
+    "surname": "Николаев",
+    "name": "Владимир",
+    "patronymic": "Иванович",
+    "login": "vnikolaev",
+    "role": "user"
+  }
+]
